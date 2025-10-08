@@ -27,7 +27,7 @@ In the current situation, the organization keeps all types of data and servers a
 
 ### AWS VM Cost Estimation
 
-![cloud service estimates](https://github.com/sumith-cqu/cocit20246-2025-t2-project-bne-project-sumith-saiganesh/blob/main/AWS_VM_Estimate%20(1).xlsx)
+[https://github.com/sumith-cqu/cocit20246-2025-t2-project-bne-project-sumith-saiganesh/blob/main/AWS_VM_Estimate%20(1).xlsx](https://github.com/sumith-cqu/cocit20246-2025-t2-project-bne-project-sumith-saiganesh/blob/main/AWS_VM_Estimate%20(1).xlsx)
 
 ![cloud service estimates](./images/AWS_VM_Estimate.png)
 
