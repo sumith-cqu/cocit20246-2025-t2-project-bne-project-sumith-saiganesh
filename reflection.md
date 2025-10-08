@@ -8,17 +8,17 @@ Each team member contributed to different project sections, including network de
 
 | Team Member | Tasks Completed |
 |--------------|-----------------|
-| **A** | Network topology design, router/switch configuration, firewall creation, cloud service analysis, TVA matrix preparation |
-| **B** | Documentation of network addressing, configuration scripts, security, and ethical issues |
-| **C** | System testing, legal data analysis, and validation |
+| **A** | Network topology design, router/switch configuration, firewall creation, cloud service analysis, TVA matrix preparation, legal data analysis |
+| **B** | Documentation of network addressing, configuration scripts, security, and ethical issues, system testing, validation |
+
 
 ## 3. Commit Comparison and Analysis
 
 | Team | Number of Commits | Major Tasks | Comments |
 |------|-------------------|--------------|-----------|
-| **A** | 10 | Network design, configuration, firewall setup | Testing and script uploads |
-| **B** | 12 | Project documentation | Large content commits |
-| **C** | 8 | Testing screenshots, risk matrix, formatting | Lower content commits |
+| **A** | 10 | Network design, configuration, firewall setup, formatting | Testing and script uploads |
+| **B** | 12 | Project documentation, Testing Screenshots, risk matrix| Large content commits | 
+| **C** | 8 | Testing screenshots, risk matrix, formatting | 
 
 ## 4. Weekly Participation Analysis
 
