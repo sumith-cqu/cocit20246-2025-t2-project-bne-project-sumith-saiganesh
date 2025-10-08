@@ -12,6 +12,8 @@ The **database** received the highest risk rating due to high business impact, p
 
 ![Risk Assessement](./images/Truelec_TVA_Risk_Assessment.png)
 ## TVA Matrix
+[https://github.com/sumith-cqu/cocit20246-2025-t2-project-bne-project-sumith-saiganesh/blob/main/Truelec_TVA_Matrix%20(1).xlsx](https://github.com/sumith-cqu/cocit20246-2025-t2-project-bne-project-sumith-saiganesh/blob/main/Truelec_TVA_Matrix%20(1).xlsx)
+
 ![TVA Matrix](./images/Truelec_TVA_Matrix.png)
 
 
