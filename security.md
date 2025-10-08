@@ -8,6 +8,9 @@ A detailed security risk assessment was conducted on Truelec’s network using a
 **Key Finding:**  
 The **database** received the highest risk rating due to high business impact, potential unauthorized access, and software vulnerabilities. Data breaches could cause significant financial and reputational damage.
 ![Risk Assessement](./images/Truelec_TVA_Risk_Assessment.png)
+## TVA Matrix
+![TVA Matrix](./images/Truelec_TVA_Matrix.png)
+
 
 
 ## 4.3.2 Recommended Security Controls
