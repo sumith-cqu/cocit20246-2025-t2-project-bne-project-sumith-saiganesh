@@ -24,8 +24,7 @@ Each team member contributed to different project sections, including network de
 
 | Weeks | Commit Activity | Comments |
 |--------|------------------|-----------|
-| 1–2 | Done | System setup and planning |
-| 3–6 | Done | Network design, configuration, testing |
+| 3–6 | Done |System setup and planning, Network design, configuration, testing |
 | 7–8 | Done | Documentation and ethical involvement |
 | 9–10 | Done | Data integration and proofreading |
 
