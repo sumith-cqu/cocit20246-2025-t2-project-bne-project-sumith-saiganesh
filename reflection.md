@@ -16,9 +16,9 @@ Each team member contributed to different project sections, including network de
 
 | Team | Number of Commits | Major Tasks | Comments |
 |------|-------------------|--------------|-----------|
-| **A** | 10 | Network design, configuration, firewall setup, formatting | Testing and script uploads |
-| **B** | 12 | Project documentation, Testing Screenshots, risk matrix| Large content commits | 
-| **C** | 8 | Testing screenshots, risk matrix, formatting | 
+| **A** | 25 | Network design, configuration, firewall setup, formatting | Testing and script uploads |
+| **B** | 22 | Project documentation, Testing Screenshots, risk matrix| Large content commits | 
+
 
 ## 4. Weekly Participation Analysis
 
