@@ -14,7 +14,7 @@ Each team member contributed to different project sections, including network de
 
 ## 3. Commit Comparison and Analysis
 
-| Team | Number of Commits | Major Tasks | Comments |
+| Team Member | Number of Commits | Major Tasks | Comments |
 |------|-------------------|--------------|-----------|
 | **A** | 25 | Network design, configuration, firewall setup, formatting | Testing and script uploads |
 | **B** | 22 | Project documentation, Testing Screenshots, risk matrix| Large content commits | 
