@@ -24,6 +24,7 @@ In the current situation, the organization keeps all types of data and servers a
 ## Cloud Service Price Estimates (Azure)
 
 [https://github.com/sumith-cqu/cocit20246-2025-t2-project-bne-project-sumith-saiganesh/blob/main/Azure_VM_Estimate%20(1).xlsx](https://github.com/sumith-cqu/cocit20246-2025-t2-project-bne-project-sumith-saiganesh/blob/main/Azure_VM_Estimate%20(1).xlsx)
+
 ![cloud service estimates](./images/Azure_VM_Estimate.png)
 
 
