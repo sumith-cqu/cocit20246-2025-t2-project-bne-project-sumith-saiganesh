@@ -26,6 +26,8 @@ In the current situation, the organization keeps all types of data and servers a
 
 
 ### AWS VM Cost Estimation
+![cloud service estimates](./images/AWS_VM_Estimate.png)
+
 
 | Provider | Region | Instance Type | vCPU | RAM | OS | Storage Type | Storage (GB) | Cost (AUD/month) | Cost (AUD/5yr per VM) |
 |-----------|---------|----------------|------|-----|----|---------------|---------------|------------------|-------------------------|
