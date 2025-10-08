@@ -21,12 +21,17 @@ In the current situation, the organization keeps all types of data and servers a
 |-----------|---------|----------------|------|-----|----|---------------|---------------|------------------|-------------------------|
 | Microsoft Azure | Australia East (Sydney) | D4s_v3 | 4 | 16 | Windows Server 2022 | SSD Managed Disks | 100 | 239.59 | 1677.11 |
 
-## Cloud Service Price Estimates 
+## Cloud Service Price Estimates (Azure)
 ![cloud service estimates](./images/Azure_VM_Estimate.png)
 
 
 ### AWS VM Cost Estimation
+
+![cloud service estimates](https://github.com/sumith-cqu/cocit20246-2025-t2-project-bne-project-sumith-saiganesh/blob/main/AWS_VM_Estimate%20(1).xlsx)
+
 ![cloud service estimates](./images/AWS_VM_Estimate.png)
+
+
 
 
 | Provider | Region | Instance Type | vCPU | RAM | OS | Storage Type | Storage (GB) | Cost (AUD/month) | Cost (AUD/5yr per VM) |
